@@ -1,3 +1,4 @@
+--------------------------------First Time-----------------------------------
 //merge -- modify locally --- add --- commit --- push
 Hello from git
 
@@ -11,14 +12,15 @@ make another conflict
 and encounter some problems
 
 local change here
-
+------------------------------Second Time----------------------------
 try again. change file remote and locally at the same time.
 
 // First: git log HEAD..origin/main
 // Second: git merge origin/main
-// Third: Fix conflict in local editor
+// Third: Fix conflict manually in local editor
 // Fourth: add and commit changes. PROBLEM FIXED
 
-
+-----------------------------Third Time------------------------------------------
 the third time 
-
+// Third time use git rebase origin/main, but thing didn't go as described in stackoverflow,https://stackoverflow.com/questions/2452226/master-branch-and-origin-master-have-diverged-how-to-undiverge-branches/2452610
+// so will temporarily use Second method.
