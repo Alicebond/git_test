@@ -1,6 +1,8 @@
-
+//merge -- modify locally --- add --- commit --- push
 Hello from git
 
 Hello from github
 
-Add new line from github
+Add new line from github 
+// git fetch origin --- git merge origin/main
+
