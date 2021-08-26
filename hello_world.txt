@@ -9,3 +9,5 @@ two command lines in line 7 can be replaced by git pull origin main. But git pul
 
 make another conflict
 and encounter some problems
+
+try again. change file remote and locally at the same time.
