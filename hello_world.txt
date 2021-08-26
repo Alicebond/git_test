@@ -7,4 +7,5 @@ Add new line from github
 // git fetch origin --- git merge origin/main
 two command lines in line 7 can be replaced by git pull origin main. But git pull... often have warning. Not sure what to do with it.
 
-make another conflict locally.
+make another conflict
+and encounter some problems
