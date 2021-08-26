@@ -13,3 +13,7 @@ and encounter some problems
 local change here
 
 try again. change file remote and locally at the same time.
+// First: git log HEAD..origin/main
+// Second: git merge origin/main
+// Third: Fix conflict in local editor
+// Fourth: add and commit changes. PROBLEM FIXED
